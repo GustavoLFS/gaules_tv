@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #b3d4fc;
+}
+
+header {
+    font-family: Didact Gothic;
+    font-size: 36px;
+}
+
+header {
+    color: #FFFFFF;
+    box-sizing: initial;
+    padding: 16x 0;
+}
+
+header img { 
+    height: 48px;
+}
+
+header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
